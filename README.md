@@ -115,7 +115,7 @@ source env/bin/activate
 sudo docker-compose up
 ```
 
--   open http://127.0.0.1:8000/ after running above command.
+-   your API will run on http://127.0.0.1:8000/ after running above command and you can jump to [API Reference](#api-reference) .
 
 #### Installing Requirements
 
